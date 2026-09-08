@@ -173,3 +173,8 @@ local/
 
 # Poetry - DO NOT ignore poetry.lock
 # poetry.lock is intentionally not ignored to ensure consistent dependencies
+# OpenResearch local artifacts
+.openresearch/runs/
+artifacts/
+data/
+datasets/
